@@ -6,7 +6,7 @@
 *
 * @package A10
 * @author Mandy Foster
-* @version 1.0 2015/07/25
+* @version 1.0 2015/07/26
 * @link http://mandy.originalfeelgood.com/summer-2015/itc260/a10/  
 * @license http://www.apache.org/licenses/LICENSE-2.0
 * @see login.php
