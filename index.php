@@ -2,7 +2,8 @@
 /**
 * index.php requires login.php, which requires functions.php; 
 *
-* index.php is only visible when the password entered matches the password defined in login.php, and if the session variable is set.
+* index.php is only visible when the password entered matches the password
+* defined in login.php, and if the session variable is set.
 *
 * @package A10
 * @author Mandy Foster

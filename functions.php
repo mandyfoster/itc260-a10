@@ -14,9 +14,11 @@
 
 
 /**
-* showLogin is called in login.php, and is used to show the password form in response to logic in login.php.
+* showLogin is called in login.php, and is used to show the password
+* form in response to logic in login.php.
 *
-* @param $notice is a string and is used to display a different login error message
+* @param $notice is a string and is used to display a different login
+* error message
 * @return void
 * @todo none
 */
